@@ -12,3 +12,6 @@ A SYCL-based 3D model generator that produces geometry enriched with physical ma
 
 **[FunGT-Dialect](https://github.com/FunGTs/fungt-dialect)**
 An MLIR dialect and compiler for a custom shader language that targets SPIR-V. Provides a typed, lowering pipeline from shader source down to GPU-executable bytecode for use within the FunGT rendering pipeline.
+
+
+![](https://komarev.com/ghpvc/?username=FunGTs&style=flat-square&color=grey)
